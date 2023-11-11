@@ -1,4 +1,4 @@
-# FileFormatGenerator
+# IFileFormatGenerator
 Create different file formats from C# class object data using reflection
 
 # CsvGenerator
